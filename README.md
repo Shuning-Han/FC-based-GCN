@@ -6,8 +6,7 @@ This repository contains the implementation of the FCbasedGCN model using PyTorc
 
 ## Paper Reference
 If you use or refer to this FCbasedGCN model in your work, please cite the following paper:
-[Paper Title]
-"Early Prediction of Dementia using fMRI Data with a Graph Convolutional Network Approach"
+"**Early Prediction of Dementia using fMRI Data with a Graph Convolutional Network Approach**"
 
 ## Requirements
 PyTorch Geometric,
