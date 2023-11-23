@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains the implementation of the FCbasedGCN model using PyTorch Geometric. The model is specifically designed for fMRI analysis and is applied in the paper titled "Early Prediction of Dementia using fMRI Data with a Graph Convolutional Network Approach." For detailed information, please refer to the paper.
+This repository contains the implementation of the FCbasedGCN model using PyTorch Geometric. The model is specifically designed for fMRI analysis and is applied in the paper titled "**Early Prediction of Dementia using fMRI Data with a Graph Convolutional Network Approach**" For detailed information, please refer to the paper.
 
 ## Paper Reference
 If you use or refer to this FCbasedGCN model in your work, please cite the following paper:
@@ -10,7 +10,7 @@ If you use or refer to this FCbasedGCN model in your work, please cite the follo
 "Early Prediction of Dementia using fMRI Data with a Graph Convolutional Network Approach"
 
 ## Requirements
-PyTorch Geometric
+PyTorch Geometric,
 NumPy
 
 ## Example Usage
